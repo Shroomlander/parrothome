@@ -6,8 +6,8 @@
 
 .grey1{
     width: 200px;
+     margin-left: 40px;
     display: inline-block;
-    margin-left: 40px;
     
 }
 .grey2{
@@ -45,8 +45,8 @@
 
 .macaw1{
     width: 200px;
+     margin-left: 30px;
     display: inline-block;
-    margin-left: 30px;
 
 }
 .macaw2{
@@ -75,8 +75,9 @@
 }
 .gold{
     width: 200px;
+     margin-left: 30px;
     display: inline-block;
-    margin-left: 30px;
+   
 }
 .gold1{
     width: 200px;
