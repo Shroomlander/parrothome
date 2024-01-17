@@ -2,6 +2,7 @@
     width: 200px;
     display: inline-block;
     object-fit: cover;
+    margin-left: 50px;
 }
 .image2{
     width: 200px;
@@ -86,6 +87,7 @@ vertical-align: top;
 .photo1{
     width: 200px;
     display: inline-block;
+    margin-left: 30px;
     
 }
 .photo2{
@@ -115,6 +117,7 @@ vertical-align: top;
 .gold{
     width: 200px;
     display: inline-block;
+    margin-left: 30px;
 }
 .gold1{
     width: 200px;
