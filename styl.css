@@ -12,11 +12,9 @@
 
 }
 .head{
-    color: rgb(136, 179, 196);
+    color: rgb(0,0,255);
     font-style: bold;
     font-family: 'Courier New', Courier, monospace;
-    background-color: grey;
-    background-size: 50px;
    
 }
 .image3{
