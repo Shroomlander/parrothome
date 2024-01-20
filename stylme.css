@@ -32,6 +32,11 @@
     margin-left: 30px;
     vertical-align: top;
 }
+.grey6{
+    width: 200px;
+    display: inline-block;
+    margin-left: 30px;
+}
 .pa{
     font-size:x-large;
     color: blue;
